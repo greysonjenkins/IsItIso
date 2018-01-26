@@ -1,0 +1,1 @@
+An isogram is a word where each letter appears only once. For example, the word "isogram" is an isogram itself. This script allows the user to enter a word and then determines if that word is an isogram.
